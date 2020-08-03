@@ -1,0 +1,16 @@
+* {
+  família de fontes : ;
+  preenchimento : 10 px ;
+  cor : branco;
+}
+corpo {
+    cor de fundo : prata;
+}
+p {
+    cor de fundo : rgb ( 255 ,  157 ,  0 );
+    preenchimento : 15 px ;
+    margem direita : 1000 px ;
+    raio da borda : 4 px ;
+    alinhamento de texto : centro;
+
+}
